@@ -1,2 +1,1 @@
-- Added Trinkets integration
-- Added russian translation (from Teppy381)
+- Added a keybinding for cycling arrows instead of sneaking
